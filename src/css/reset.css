@@ -1,0 +1,10 @@
+/* Vai conter os seletores que irá remover o padrão do HTML */
+* { /* Aplica o estilo em tudo */
+    margin: 0; /* ESpaçamento entre os elementos */ /* Ctrl + b fecha o menu */
+    padding: 0;  /* Espaçamento interno entre os elementos */
+    box-sizing: border-box; /*alterar a propriedade padrão da box model, que calcula larguras e alturas dos elementos.*/
+}
+
+ul {
+    list-style: none;
+}
