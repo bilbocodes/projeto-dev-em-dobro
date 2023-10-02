@@ -1,5 +1,5 @@
 # Projeto Dev em Dobro
-Esse repositório irá conter todo o projeto feito na imersão, o objetivo é desenvolver um site sobre os personagens do anime "One Piece". 
+Esse repositório irá conter todo o projeto feito na imersão, o objetivo é desenvolver um site sobre os personagens do anime/mangá "Sailor Moon". 
 
 ## Programas e linguagens usadas
 
